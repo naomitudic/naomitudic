@@ -1,5 +1,4 @@
 ## Hi! Naomi here 😊👋 
-
 I'm Naomi, an avid criminologist and passionate about defying boundaries. My recent interest in cybersecurity and programming have driven me to try out new challenges. I have always been the kind to enjoy learning new things, and right now, my next goal is coding. This profile will remain a testament of my journey, and hopefully, the start of a much fulfilling path. Hope to see you soon!
 
 ## Current stack
